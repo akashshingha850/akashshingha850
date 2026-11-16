@@ -1,6 +1,6 @@
-# Hi, I'm Akash 👋
+# Hi, I'm Akash Shingha Bappy 👋
 
-I build autonomous drones, digital twins and on-device AI, from PX4 flight stacks and Isaac Sim to YOLO pipelines on NVIDIA Jetson. Based in Oulu, Finland.
+I build autonomous drones, digital twins and on-device AI, from PX4 flight stacks and Isaac Sim to YOLO pipelines on NVIDIA Jetson. I'm with the [Biomimetics and Intelligent Systems Group](https://www.oulu.fi/en/research-groups/biomimetics-and-intelligent-systems-group) at the University of Oulu, Finland.
 
 🌐 **Portfolio:** [akashshingha850.github.io](https://akashshingha850.github.io)
 
@@ -14,6 +14,10 @@ I build autonomous drones, digital twins and on-device AI, from PX4 flight stack
 | [raptor](https://github.com/akashshingha850/raptor) | Real-time YOLO + DeepStream detection, tracking and MAVLink control |
 | [SENSEYE](https://github.com/akashshingha850/SENSEYE-Resource-Aware-Visionary-Framework) | Edge-AI assistant for visually impaired users on Jetson |
 | [local-coder](https://github.com/akashshingha850/local-coder) | Self-hosted coding agent on local GPUs, wired into VS Code |
+
+## Publications
+
+- T. Mäenpää\*, **A. Bappy\***, S. Ariram, D. P. Bavirisetti, A. Tikanmäki. *RangeGen PoleSight: A Benchmark Dataset and Scalable Range-Image Generation Framework for Roadside Pole Detection.* IVCNZ 2026. (\*equal contribution)
 
 ## Tools I use
 
