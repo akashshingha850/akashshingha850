@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "23 5 * * *" # daily
+  push:
+    branches: [main]
+    paths: [scripts/update_repos.py, .github/workflows/update-readme.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Refresh recently active repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 scripts/update_repos.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update recently active repos"
+          git push
