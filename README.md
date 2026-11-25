@@ -17,6 +17,8 @@
 
 I build robots that see and fly on their own — and take perception models from raw data to field deployment on embedded hardware. Project Researcher in the [Biomimetics and Intelligent Systems Group](https://www.oulu.fi/en/research-groups/biomimetics-and-intelligent-systems-group), University of Oulu; previously at VTT Technical Research Centre of Finland.
 
+🏆 **2nd prize, [NNF Master Thesis Prize 2025](https://www.nornav.org/winner-of-the-2025-nnf-master-thesis-prize.6748922-27945.html)** (Nordic Institute of Navigation) for my M.Sc. thesis on real-time UAV road intersection detection on edge devices.
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -43,6 +45,12 @@ I build robots that see and fly on their own — and take perception models from
 ### Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://akashshingha850.github.io/roadsight/"><b>ROADSIGHT</b></a> &nbsp;<sub><code>dataset · award-winning</code></sub><br />
+      First multi-season UAV dataset for road intersection detection: <b>1,416</b> images from 62 Finnish sites across summer, autumn and winter. YOLO26n runs at <b>98 FPS</b> on Jetson Orin NX. Accepted at <i>CVC 2027</i>; grew out of my <a href="https://www.nornav.org/winner-of-the-2025-nnf-master-thesis-prize.6748922-27945.html">NNF prize-winning</a> thesis. <a href="https://akashshingha850.github.io/roadsight/">Project page</a> · <a href="https://doi.org/10.5281/zenodo.24274498">Dataset</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/akashshingha850/bisg_isaac"><b>bisg_isaac</b></a> &nbsp;<sub><code>digital twin</code></sub><br />
@@ -77,7 +85,7 @@ I build robots that see and fly on their own — and take perception models from
 
 ### Recent publications
 
-- **ROADSIGHT** — multi-season UAV dataset for road intersection detection, 98 FPS on Jetson Orin NX · *CVC 2027* · [dataset](https://doi.org/10.5281/zenodo.24274498)
+- **ROADSIGHT** — multi-season UAV dataset for road intersection detection, 98 FPS on Jetson Orin NX · *CVC 2027* · [project page](https://akashshingha850.github.io/roadsight/) · [dataset](https://doi.org/10.5281/zenodo.24274498)
 - **RangeGen PoleSight** — LiDAR range-image benchmark for roadside pole detection · *IVCNZ 2026* · [dataset](https://zenodo.org/records/23339206)
 - **SENSEYE** — resource-aware edge-AI framework for people with visual disabilities · *Scientific Reports 2026* · [paper](https://www.nature.com/articles/s41598-026-51257-9)
 
