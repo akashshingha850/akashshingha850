@@ -92,11 +92,11 @@ I build robots that see and fly on their own — and take perception models from
 ### Recently active
 
 <!-- REPOS:START -->
+- [**ultrahack2026**](https://github.com/akashshingha850/ultrahack2026) <sub>Python · updated Nov 2026</sub>
+- [**roadsight**](https://github.com/akashshingha850/roadsight) <sub>HTML · updated Nov 2026</sub>
 - [**bisg_isaac**](https://github.com/akashshingha850/bisg_isaac) <sub>Python · updated Nov 2026</sub>
 - [**kinetix**](https://github.com/akashshingha850/kinetix) <sub>Python · updated Nov 2026</sub>
 - [**polesight**](https://github.com/akashshingha850/polesight) <sub>HTML · updated Nov 2026</sub>
-- [**local-coder**](https://github.com/akashshingha850/local-coder) <sub>Shell · updated Sep 2026</sub>
-- [**SENSEYE-Resource-Aware-Visionary-Framework**](https://github.com/akashshingha850/SENSEYE-Resource-Aware-Visionary-Framework) <sub>Python · updated Jun 2026</sub>
 <!-- REPOS:END -->
 
 <sub>Updated daily by a GitHub Action.</sub>
